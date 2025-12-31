@@ -4,7 +4,7 @@
   "private": true,
   "devDependencies": {
     "@vue/language-server": "2.2.10",
-    "esbuild": "^0.20.0"
+    "esbuild": "^0.25.0"
   },
   "scripts": {
     "build": "node build"
